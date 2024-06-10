@@ -4,3 +4,5 @@ dtale
 scikit-learn
 matplotlib
 seaborn
+pycaret
+
