@@ -1,7 +1,7 @@
 # automlproject
  Automate machine learning .
 
-Auto ML COEX
+
 Auto ML COEX is a Streamlit web application that helps you perform Automated Machine Learning (AutoML) on your dataset. It allows you to upload a CSV dataset, explore the data, run AutoML to find the best model, and visualize the model performance metrics.
 
 Features
