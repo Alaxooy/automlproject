@@ -1,7 +1,6 @@
 streamlit
 pandas
 dtale
-pycaret
 scikit-learn
-seaborn
 matplotlib
+seaborn
