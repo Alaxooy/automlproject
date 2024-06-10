@@ -11,7 +11,7 @@ import seaborn as sns
 def main():
     st.sidebar.title("Auto ML COEX")
     st.sidebar.info("This application helps you perform Automated Machine Learning.")
-    st.sidebar.image("", use_column_width=True)
+    st.sidebar.image("automl-image.jpg", use_column_width=True)
 
     # Main content
     st.title("Auto ML COEX")
