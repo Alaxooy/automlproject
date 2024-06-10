@@ -1,7 +1,7 @@
 streamlit
 pandas
 dtale
-pycaret.regression
-sklearn.preprocessing
-matplotlib.pyplo
+pycaret
+scikit-learn
 seaborn
+matplotlib
