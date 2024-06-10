@@ -1,8 +1,7 @@
 streamlit
 pandas
 dtale
-scikit-learn
+pycaret==2.3.5
+scikit-learn==0.23.2
 matplotlib
 seaborn
-pycaret
-
